@@ -1,6 +1,15 @@
-import {Link} from "react-router-dom";
+import Card from "../../components/Card";
+import Header from "../../components/Header";
+import {Container} from "./style";
 
 export default function Home() {
-  return (<Link to="/product"><h1>Testando</h1></Link>)
+  return (
+    <>
+      <Container>
+        <Header />
+        <Card />
+      </Container>
+    </>
+  )
 
 }
