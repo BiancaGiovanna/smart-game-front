@@ -33,7 +33,7 @@ O Que é necessário para rodar o projeto ?
 - [axios] Para consumir a API
 - [google-map-react] Mecanismo que permite ultilizar o google mapas na sua aplicação web
 - [qrcode.react] Gerar um QRCode
-- [styled-components] Usar CSS dentro do JavaScript
+- [styled-components] Permite que você use estilos ao nível de componente na sua aplicação, é escrito em uma mistura de JavaScript com CSS
 
 ### Autora
 
